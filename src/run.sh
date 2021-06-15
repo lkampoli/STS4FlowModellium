@@ -1,0 +1,1 @@
+time ./shprot.x
